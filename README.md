@@ -39,5 +39,4 @@ This creates:
 streamlit run app.py
 ```
 
-## Presentation
-Explain the workflow as: raw data → cleaning → preprocessing → train/test split → model comparison → best model → prediction probability.
+
